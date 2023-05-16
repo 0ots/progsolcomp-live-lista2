@@ -4,7 +4,7 @@
 * Data: 16/05/2023
 */
 import java.util.Scanner;
-public class Exercicio_9{
+public class Exercicio_09{
     public static void main(String[] args) throws Exception{
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite o valor da venda: ");

@@ -4,7 +4,7 @@
 * Data: 16/05/2023
 */
 import java.util.Scanner;
-public class Exercicio_5{
+public class Exercicio_05{
     public static void main(String[] args) throws Exception{
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite seu nome: ");

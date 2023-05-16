@@ -4,7 +4,7 @@
 * Data: 16/05/2023
 */
 import java.util.Scanner;
-public class Exercicio_1{
+public class Exercicio_01{
     public static void main(String[] args) throws Exception{
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite o primeiro número: ");
